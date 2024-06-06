@@ -1,1 +1,1424 @@
-
+    [
+    {
+        "game_id": "plzXL9xg1n",
+        "created_at": "2024-06-01T21:59:59.286Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "Kl3X9KPOrN",
+        "created_at": "2024-06-01T21:59:29.264Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "xrMaABm2rQ",
+        "created_at": "2024-06-01T21:58:59.245Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "YrJ3DmXM1K",
+        "created_at": "2024-06-01T21:58:29.220Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "6rXBN9z3kO",
+        "created_at": "2024-06-01T21:57:29.181Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "V16GP90ZkB",
+        "created_at": "2024-06-01T21:56:59.158Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "J1oV0BYqrd",
+        "created_at": "2024-06-01T21:56:29.140Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "ArwdOKE21z",
+        "created_at": "2024-06-01T21:55:59.122Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "ekj6NQaQk9",
+        "created_at": "2024-06-01T21:55:29.104Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "O1BRDa4V1K",
+        "created_at": "2024-06-01T21:54:59.082Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "5rVXL7bqkK",
+        "created_at": "2024-06-01T21:54:29.058Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "w1Da654LkE",
+        "created_at": "2024-06-01T21:53:59.034Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "J1mveDbykj",
+        "created_at": "2024-06-01T21:53:29.016Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "okgV74Wa1y",
+        "created_at": "2024-06-01T21:52:58.999Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "4lQ7Yp4N1n",
+        "created_at": "2024-06-01T21:52:28.980Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "RlvYdONbkj",
+        "created_at": "2024-06-01T21:51:58.964Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "LknDxVp7r3",
+        "created_at": "2024-06-01T21:51:28.940Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "2l4GN7eVkn",
+        "created_at": "2024-06-01T21:50:58.916Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "Kl5aELxBl9",
+        "created_at": "2024-06-01T21:50:28.899Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "blRLdYoo1O",
+        "created_at": "2024-06-01T21:49:58.877Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "V1anbWP6ke",
+        "created_at": "2024-06-01T21:49:28.854Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "8kGbDv4B1Z",
+        "created_at": "2024-06-01T21:48:58.838Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "8r22LOE3rb",
+        "created_at": "2024-06-01T21:48:28.819Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "erWE9LpxkX",
+        "created_at": "2024-06-01T21:47:58.802Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "V1qoAyOAlB",
+        "created_at": "2024-06-01T21:47:28.781Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "Rl8XxEq6lK",
+        "created_at": "2024-06-01T21:46:58.763Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "5k0LKYzmkY",
+        "created_at": "2024-06-01T21:46:28.745Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "z1xQK7PWkp",
+        "created_at": "2024-06-01T21:45:58.727Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "V1eKOR8wlo",
+        "created_at": "2024-06-01T21:45:28.709Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "qlPepb45rz",
+        "created_at": "2024-06-01T21:44:58.691Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "dlEaD4j6lv",
+        "created_at": "2024-06-01T21:44:28.673Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "mlN6yA4Xlv",
+        "created_at": "2024-06-01T21:43:58.654Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "M19X0PWerA",
+        "created_at": "2024-06-01T21:43:28.636Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "ylLz3V4y1G",
+        "created_at": "2024-06-01T21:42:58.617Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "G17zeN8ArZ",
+        "created_at": "2024-06-01T21:42:28.597Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "9rKbjDZal6",
+        "created_at": "2024-06-01T21:41:58.580Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "XlO5by491O",
+        "created_at": "2024-06-01T21:41:28.561Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "WldVda0813",
+        "created_at": "2024-06-01T21:40:58.541Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "elYnENdwrL",
+        "created_at": "2024-06-01T21:40:28.523Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "R1p28Adml5",
+        "created_at": "2024-06-01T21:39:58.501Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "RkbWp2evlL",
+        "created_at": "2024-06-01T21:39:28.483Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "EryV7LeV1j",
+        "created_at": "2024-06-01T21:38:58.461Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "AlAmBG45lG",
+        "created_at": "2024-06-01T21:38:28.443Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "plzXL9Qg1n",
+        "created_at": "2024-06-01T21:37:58.425Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "Kl3X9KNOrN",
+        "created_at": "2024-06-01T21:37:28.406Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "xrMaABv2rQ",
+        "created_at": "2024-06-01T21:36:58.388Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "YrJ3DmvM1K",
+        "created_at": "2024-06-01T21:36:28.366Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "DlZ4PEoe1j",
+        "created_at": "2024-06-01T21:35:58.348Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "6rXBN9R3kO",
+        "created_at": "2024-06-01T21:35:28.328Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "V16GP9eZkB",
+        "created_at": "2024-06-01T21:34:58.310Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "J1oV0BXqrd",
+        "created_at": "2024-06-01T21:34:28.292Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "ArwdOK521z",
+        "created_at": "2024-06-01T21:33:58.273Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "ekj6NQ5Qk9",
+        "created_at": "2024-06-01T21:33:28.255Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "O1BRDavV1K",
+        "created_at": "2024-06-01T21:32:58.236Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "5rVXL7RqkK",
+        "created_at": "2024-06-01T21:32:28.214Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "w1Da65vLkE",
+        "created_at": "2024-06-01T21:31:58.196Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "J1mveD5ykj",
+        "created_at": "2024-06-01T21:31:28.179Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "okgV74Ra1y",
+        "created_at": "2024-06-01T21:30:58.157Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "4lQ7YpvN1n",
+        "created_at": "2024-06-01T21:30:28.138Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "RlvYdO5bkj",
+        "created_at": "2024-06-01T21:29:58.118Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "LknDxV47r3",
+        "created_at": "2024-06-01T21:29:28.100Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "Kl5aELPBl9",
+        "created_at": "2024-06-01T21:28:28.064Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "blRLdYvo1O",
+        "created_at": "2024-06-01T21:27:58.044Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "V1anbW66ke",
+        "created_at": "2024-06-01T21:27:28.026Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "8kGbDv6B1Z",
+        "created_at": "2024-06-01T21:26:58.008Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "8r22LO93rb",
+        "created_at": "2024-06-01T21:26:27.990Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "erWE9LwxkX",
+        "created_at": "2024-06-01T21:25:57.973Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "V1qoAyvAlB",
+        "created_at": "2024-06-01T21:25:27.956Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "Rl8XxE06lK",
+        "created_at": "2024-06-01T21:24:57.937Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "5k0LKY7mkY",
+        "created_at": "2024-06-01T21:24:27.912Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "z1xQK75Wkp",
+        "created_at": "2024-06-01T21:23:57.894Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "V1eKORzwlo",
+        "created_at": "2024-06-01T21:23:27.877Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "qlPepbv5rz",
+        "created_at": "2024-06-01T21:22:57.856Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "dlEaD4Q6lv",
+        "created_at": "2024-06-01T21:22:27.835Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "mlN6yAzXlv",
+        "created_at": "2024-06-01T21:21:57.818Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "M19X0P8erA",
+        "created_at": "2024-06-01T21:21:27.794Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "ylLz3VXy1G",
+        "created_at": "2024-06-01T21:20:57.779Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "G17zeNxArZ",
+        "created_at": "2024-06-01T21:20:27.761Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "9rKbjD3al6",
+        "created_at": "2024-06-01T21:19:57.741Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "XlO5byz91O",
+        "created_at": "2024-06-01T21:19:27.722Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "WldVdaR813",
+        "created_at": "2024-06-01T21:18:57.703Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "elYnENRwrL",
+        "created_at": "2024-06-01T21:18:27.684Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "R1p28A5ml5",
+        "created_at": "2024-06-01T21:17:57.663Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "RkbWp2RvlL",
+        "created_at": "2024-06-01T21:17:27.644Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "EryV7LJV1j",
+        "created_at": "2024-06-01T21:16:57.621Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "AlAmBGv5lG",
+        "created_at": "2024-06-01T21:16:27.602Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "mlN6yA3vlv",
+        "created_at": "2024-06-01T21:15:57.585Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "M19X0PNErA",
+        "created_at": "2024-06-01T21:15:27.568Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "ylLz3VBW1G",
+        "created_at": "2024-06-01T21:14:57.550Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "G17zeNLXrZ",
+        "created_at": "2024-06-01T21:14:27.531Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "9rKbjDBXl6",
+        "created_at": "2024-06-01T21:13:57.512Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "XlO5byBm1O",
+        "created_at": "2024-06-01T21:13:27.495Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "WldVdaEn13",
+        "created_at": "2024-06-01T21:12:57.477Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "elYnENyJrL",
+        "created_at": "2024-06-01T21:12:27.458Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "R1p28ApPl5",
+        "created_at": "2024-06-01T21:11:57.442Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "RkbWp292lL",
+        "created_at": "2024-06-01T21:11:27.424Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "EryV7LEG1j",
+        "created_at": "2024-06-01T21:10:57.405Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "AlAmBGWglG",
+        "created_at": "2024-06-01T21:10:27.385Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "plzXL9Py1n",
+        "created_at": "2024-06-01T21:09:57.368Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "Kl3X9KdprN",
+        "created_at": "2024-06-01T21:09:27.351Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "xrMaABjzrQ",
+        "created_at": "2024-06-01T21:08:57.335Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "YrJ3DmBY1K",
+        "created_at": "2024-06-01T21:08:27.316Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "DlZ4PEby1j",
+        "created_at": "2024-06-01T21:07:57.298Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "6rXBN9AZkO",
+        "created_at": "2024-06-01T21:07:27.281Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "V16GP97VkB",
+        "created_at": "2024-06-01T21:06:57.261Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "J1oV0Bbdrd",
+        "created_at": "2024-06-01T21:06:27.242Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "ArwdOK9E1z",
+        "created_at": "2024-06-01T21:05:57.225Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "ekj6NQq5k9",
+        "created_at": "2024-06-01T21:05:27.206Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "O1BRDa221K",
+        "created_at": "2024-06-01T21:04:57.188Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "5rVXL7BykK",
+        "created_at": "2024-06-01T21:04:27.170Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "w1Da65BxkE",
+        "created_at": "2024-06-01T21:03:57.153Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "J1mveDAekj",
+        "created_at": "2024-06-01T21:03:27.134Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "okgV74xX1y",
+        "created_at": "2024-06-01T21:02:57.119Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "4lQ7Ypzy1n",
+        "created_at": "2024-06-01T21:02:27.097Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "RlvYdOLwkj",
+        "created_at": "2024-06-01T21:01:57.079Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "LknDxVywr3",
+        "created_at": "2024-06-01T21:01:27.058Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "2l4GN7Oykn",
+        "created_at": "2024-06-01T21:00:57.040Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "Kl5aELKjl9",
+        "created_at": "2024-06-01T21:00:27.021Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "blRLdYXn1O",
+        "created_at": "2024-06-01T20:59:57.003Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "V1anbWLMke",
+        "created_at": "2024-06-01T20:59:26.982Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "8kGbDvBd1Z",
+        "created_at": "2024-06-01T20:58:56.964Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "8r22LOYDrb",
+        "created_at": "2024-06-01T20:58:26.946Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "erWE9LBekX",
+        "created_at": "2024-06-01T20:57:56.927Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "V1qoAyYalB",
+        "created_at": "2024-06-01T20:57:26.900Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "Rl8XxE9glK",
+        "created_at": "2024-06-01T20:56:56.880Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "5k0LKYbGkY",
+        "created_at": "2024-06-01T20:56:26.863Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "z1xQK7NOkp",
+        "created_at": "2024-06-01T20:55:56.845Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "V1eKORPglo",
+        "created_at": "2024-06-01T20:55:26.828Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "qlPepbBerz",
+        "created_at": "2024-06-01T20:54:56.810Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "dlEaD4BRlv",
+        "created_at": "2024-06-01T20:54:26.792Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "mlN6yAPvlv",
+        "created_at": "2024-06-01T20:53:56.776Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "M19X0P3ErA",
+        "created_at": "2024-06-01T20:53:26.759Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "ylLz3VNW1G",
+        "created_at": "2024-06-01T20:52:56.743Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "G17zeN3XrZ",
+        "created_at": "2024-06-01T20:52:26.724Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "9rKbjD9Xl6",
+        "created_at": "2024-06-01T20:51:56.706Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "XlO5byem1O",
+        "created_at": "2024-06-01T20:51:26.675Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "WldVdaxn13",
+        "created_at": "2024-06-01T20:50:56.656Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "R1p28AKPl5",
+        "created_at": "2024-06-01T20:49:56.616Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "RkbWp2P2lL",
+        "created_at": "2024-06-01T20:49:26.594Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "EryV7L0G1j",
+        "created_at": "2024-06-01T20:48:56.574Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "AlAmBGAglG",
+        "created_at": "2024-06-01T20:48:26.556Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "plzXL98y1n",
+        "created_at": "2024-06-01T20:47:56.539Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "Kl3X9K3prN",
+        "created_at": "2024-06-01T20:47:26.521Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "xrMaABEzrQ",
+        "created_at": "2024-06-01T20:46:56.504Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "YrJ3DmLY1K",
+        "created_at": "2024-06-01T20:46:26.484Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "DlZ4PEdy1j",
+        "created_at": "2024-06-01T20:45:56.462Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "6rXBN9pZkO",
+        "created_at": "2024-06-01T20:45:26.445Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "V16GP93VkB",
+        "created_at": "2024-06-01T20:44:56.425Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "J1oV0BOdrd",
+        "created_at": "2024-06-01T20:44:26.406Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "ArwdOKeE1z",
+        "created_at": "2024-06-01T20:43:56.385Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "ekj6NQy5k9",
+        "created_at": "2024-06-01T20:43:26.369Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "O1BRDay21K",
+        "created_at": "2024-06-01T20:42:56.350Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "5rVXL7yykK",
+        "created_at": "2024-06-01T20:42:26.329Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "w1Da65pxkE",
+        "created_at": "2024-06-01T20:41:56.314Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "J1mveDYekj",
+        "created_at": "2024-06-01T20:41:26.296Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "okgV74qX1y",
+        "created_at": "2024-06-01T20:40:56.276Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "4lQ7Yp0y1n",
+        "created_at": "2024-06-01T20:40:26.258Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "RlvYdOPwkj",
+        "created_at": "2024-06-01T20:39:56.239Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "LknDxVzwr3",
+        "created_at": "2024-06-01T20:39:26.221Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "2l4GN73ykn",
+        "created_at": "2024-06-01T20:38:56.201Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "Kl5aEL3jl9",
+        "created_at": "2024-06-01T20:38:26.182Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "blRLdY8n1O",
+        "created_at": "2024-06-01T20:37:56.164Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "V1anbWEMke",
+        "created_at": "2024-06-01T20:37:26.147Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "8kGbDvOd1Z",
+        "created_at": "2024-06-01T20:36:56.128Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "8r22LO3Drb",
+        "created_at": "2024-06-01T20:36:26.105Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "erWE9LzekX",
+        "created_at": "2024-06-01T20:35:56.084Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "V1qoAy7alB",
+        "created_at": "2024-06-01T20:35:26.067Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "Rl8XxE3glK",
+        "created_at": "2024-06-01T20:34:56.046Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "5k0LKY3GkY",
+        "created_at": "2024-06-01T20:34:26.027Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "z1xQK7xOkp",
+        "created_at": "2024-06-01T20:33:56.005Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "V1eKOR0glo",
+        "created_at": "2024-06-01T20:33:25.990Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "qlPepbxerz",
+        "created_at": "2024-06-01T20:32:55.973Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "dlEaD4YRlv",
+        "created_at": "2024-06-01T20:32:25.953Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "mlN6yAOvlv",
+        "created_at": "2024-06-01T20:31:55.933Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "M19X0PYErA",
+        "created_at": "2024-06-01T20:31:25.915Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "ylLz3VYW1G",
+        "created_at": "2024-06-01T20:30:55.894Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "G17zeNbXrZ",
+        "created_at": "2024-06-01T20:30:25.877Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "9rKbjDpXl6",
+        "created_at": "2024-06-01T20:29:55.860Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "XlO5byKm1O",
+        "created_at": "2024-06-01T20:29:25.843Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "WldVdaLn13",
+        "created_at": "2024-06-01T20:28:55.825Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "elYnEN8JrL",
+        "created_at": "2024-06-01T20:28:25.809Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "R1p28AgPl5",
+        "created_at": "2024-06-01T20:27:55.791Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "RkbWp2K2lL",
+        "created_at": "2024-06-01T20:27:25.772Z",
+        "color": "black",
+        "roll": 8
+    },
+    {
+        "game_id": "EryV7LgG1j",
+        "created_at": "2024-06-01T20:26:55.748Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "AlAmBGEglG",
+        "created_at": "2024-06-01T20:26:25.730Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "mlN6yAOWlv",
+        "created_at": "2024-06-01T20:25:55.711Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "M19X0PYLrA",
+        "created_at": "2024-06-01T20:25:25.694Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "ylLz3VY51G",
+        "created_at": "2024-06-01T20:24:55.678Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "G17zeNbPrZ",
+        "created_at": "2024-06-01T20:24:25.659Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "9rKbjDpPl6",
+        "created_at": "2024-06-01T20:23:55.612Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "XlO5byKZ1O",
+        "created_at": "2024-06-01T20:23:25.594Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "WldVdaLe13",
+        "created_at": "2024-06-01T20:22:55.576Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "elYnEN8KrL",
+        "created_at": "2024-06-01T20:22:25.553Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "R1p28Agdl5",
+        "created_at": "2024-06-01T20:21:55.537Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "RkbWp2KRlL",
+        "created_at": "2024-06-01T20:21:25.519Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "EryV7LgE1j",
+        "created_at": "2024-06-01T20:20:55.501Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "AlAmBGEAlG",
+        "created_at": "2024-06-01T20:20:25.483Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "plzXL9oo1n",
+        "created_at": "2024-06-01T20:19:55.463Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "Kl3X9K59rN",
+        "created_at": "2024-06-01T20:19:25.446Z",
+        "color": "black",
+        "roll": 14
+    },
+    {
+        "game_id": "xrMaABdXrQ",
+        "created_at": "2024-06-01T20:18:55.428Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "YrJ3Dmbw1K",
+        "created_at": "2024-06-01T20:18:25.406Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "DlZ4PEq61j",
+        "created_at": "2024-06-01T20:17:55.387Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "6rXBN90VkO",
+        "created_at": "2024-06-01T20:17:25.371Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "V16GP9ypkB",
+        "created_at": "2024-06-01T20:16:55.352Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "J1oV0Bg8rd",
+        "created_at": "2024-06-01T20:16:25.334Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "ArwdOKDQ1z",
+        "created_at": "2024-06-01T20:15:55.312Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "ekj6NQxzk9",
+        "created_at": "2024-06-01T20:15:25.296Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "O1BRDaPA1K",
+        "created_at": "2024-06-01T20:14:55.278Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "5rVXL7eKkK",
+        "created_at": "2024-06-01T20:14:25.263Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "w1Da65xPkE",
+        "created_at": "2024-06-01T20:13:55.243Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "J1mveDqxkj",
+        "created_at": "2024-06-01T20:13:25.226Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "okgV74EL1y",
+        "created_at": "2024-06-01T20:12:55.209Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "4lQ7YpL61n",
+        "created_at": "2024-06-01T20:12:25.191Z",
+        "color": "black",
+        "roll": 10
+    },
+    {
+        "game_id": "RlvYdOgakj",
+        "created_at": "2024-06-01T20:11:55.167Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "LknDxVg0r3",
+        "created_at": "2024-06-01T20:11:25.149Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "2l4GN7MGkn",
+        "created_at": "2024-06-01T20:10:55.129Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "Kl5aELAvl9",
+        "created_at": "2024-06-01T20:10:25.110Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "blRLdYdw1O",
+        "created_at": "2024-06-01T20:09:55.094Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "V1anbWb9ke",
+        "created_at": "2024-06-01T20:09:25.074Z",
+        "color": "white",
+        "roll": 0
+    },
+    {
+        "game_id": "8kGbDvDe1Z",
+        "created_at": "2024-06-01T20:08:55.058Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "8r22LOLBrb",
+        "created_at": "2024-06-01T20:08:25.040Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "erWE9L9NkX",
+        "created_at": "2024-06-01T20:07:55.021Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "V1qoAyA3lB",
+        "created_at": "2024-06-01T20:07:25.001Z",
+        "color": "red",
+        "roll": 3
+    },
+    {
+        "game_id": "Rl8XxExMlK",
+        "created_at": "2024-06-01T20:06:54.982Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "5k0LKYKvkY",
+        "created_at": "2024-06-01T20:06:24.964Z",
+        "color": "red",
+        "roll": 6
+    },
+    {
+        "game_id": "z1xQK7KGkp",
+        "created_at": "2024-06-01T20:05:54.944Z",
+        "color": "red",
+        "roll": 4
+    },
+    {
+        "game_id": "V1eKORORlo",
+        "created_at": "2024-06-01T20:05:24.926Z",
+        "color": "red",
+        "roll": 1
+    },
+    {
+        "game_id": "qlPepbpPrz",
+        "created_at": "2024-06-01T20:04:54.905Z",
+        "color": "black",
+        "roll": 9
+    },
+    {
+        "game_id": "dlEaD4Dylv",
+        "created_at": "2024-06-01T20:04:24.886Z",
+        "color": "red",
+        "roll": 5
+    },
+    {
+        "game_id": "mlN6yAyWlv",
+        "created_at": "2024-06-01T20:03:54.866Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "M19X0P0LrA",
+        "created_at": "2024-06-01T20:03:24.849Z",
+        "color": "red",
+        "roll": 7
+    },
+    {
+        "game_id": "ylLz3V351G",
+        "created_at": "2024-06-01T20:02:54.830Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "G17zeNePrZ",
+        "created_at": "2024-06-01T20:02:24.811Z",
+        "color": "black",
+        "roll": 11
+    },
+    {
+        "game_id": "9rKbjDjPl6",
+        "created_at": "2024-06-01T20:01:54.790Z",
+        "color": "black",
+        "roll": 13
+    },
+    {
+        "game_id": "XlO5bybZ1O",
+        "created_at": "2024-06-01T20:01:24.772Z",
+        "color": "black",
+        "roll": 12
+    },
+    {
+        "game_id": "WldVdade13",
+        "created_at": "2024-06-01T20:00:54.752Z",
+        "color": "red",
+        "roll": 2
+    },
+    {
+        "game_id": "elYnENEKrL",
+        "created_at": "2024-06-01T20:00:24.733Z",
+        "color": "black",
+        "roll": 14
+    }
+]

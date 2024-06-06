@@ -1,0 +1,18 @@
+[
+    {
+        "game_id": "plzXL9xg1n",
+        "bet": {
+            "id": "Kl575K2yj1",
+            "color": 0,
+            "amount": 5,
+            "win_amount": null,
+            "currency_type": "BRL",
+            "status": "loss",
+            "user": {
+                "id": 6833402,
+                "id_str": "RkbWdoMZlL",
+                "username": "semusername",
+                "rank": "gold"
+            }
+        }
+    }]
