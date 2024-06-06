@@ -18,3 +18,4 @@ Python
 Requests (para fazer requisições HTTP)
 Power BI com PowerQuery/M e DAX
 
+https://app.powerbi.com/view?r=eyJrIjoiOGFiOGVjNGItYWI5Mi00ZmFhLTkwODEtNjZhY2NjNDk1ZGY0IiwidCI6ImZhNzk1MzFjLThjZTUtNGJkMy05N2VlLTI0NWU2ZWUyNjZiOCJ9
